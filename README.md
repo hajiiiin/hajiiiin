@@ -24,7 +24,6 @@ Here are some ideas to get you started:
     </a>
     
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=hihajin&theme=default)](https://hihajin.tistory.com)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fhttps%2F%2Fhihajin.tistory.com%2F%2Fhit-counter&count_bg=%23A491DE&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=tistory&edge_flat=false)](https://hits.seeyoufarm.com)
 </div><br>
 
 ## 🌱 I’m currently learning 🌱
