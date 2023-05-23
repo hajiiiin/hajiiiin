@@ -36,13 +36,13 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
     <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
-</div>
-    <p></p>
+</div><br>
+   
     
 ## 🏅Baekjoon solved rank
-    <div>
+    
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hihajin)](https://solved.ac/hihajin/)
-    </div>
+    
 <br>
 </div>
     <!--![hajiiiin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hajiiiin&show_icons=true&theme=swift)-->
