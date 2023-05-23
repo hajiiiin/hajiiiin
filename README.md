@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ## 💻 My blog 💻
 <div style="display:flex; flex-direction:row;">
     <a href="https://hihajin.tistory.com/">
-      <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
+      <img src="https://img.shields.io/badge/Tistory-9999FF?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
     
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=hihajin&theme=default)](https://hihajin.tistory.com)
