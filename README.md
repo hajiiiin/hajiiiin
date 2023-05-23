@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi👋 hajiiiin's github %20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=180&section=header&text=Hi👋%20hajiiiin's%20github &fontSize=32&fontColor=ffffff" />
 
 <!--
 **hajiiiin/hajiiiin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
