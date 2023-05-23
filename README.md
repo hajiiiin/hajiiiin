@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <div align="center">
     
-## 💻 My blog
+## 💻 My blog 💻
 <div style="display:flex; flex-direction:row;">
     <a href="https://hihajin.tistory.com/">
       <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=hihajin&theme=default)](https://hihajin.tistory.com)
 </div><br>
 
-## 🌱 I’m currently learning ...
+## 🌱 I’m currently learning 🌱
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <img alt="C++" src="https://camo.githubusercontent.com/07887f5108b71edeb255285173b1e5f03f5cc881567b312736329c3404af6cfe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432b2b2d3030353939432e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d43253242253242266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/C++-00599C.svg?&amp;style=for-the-badge&amp;logo=C%2B%2B&amp;logoColor=white" style="max-width: 100%;">
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 </div><br>
    
     
-## 🏅Baekjoon solved rank
+## 🏅 Baekjoon solved rank 🏅
     
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hihajin)](https://solved.ac/hihajin/)
     <br>
