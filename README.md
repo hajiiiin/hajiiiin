@@ -35,9 +35,6 @@ Here are some ideas to get you started:
     </div>
       <p>
     
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
-
-<img src="https://camo.githubusercontent.com/2b8b4a32fad9cf539e24d18b6292738eb2a8042b5079279224dd2fa22ee16c6e/687474703a2f2f6d617a617373756d6e6964612e7774662f6170692f76322f67656e65726174655f62616467653f626f6a3d6b686a34323935323333" alt="Solved.ac Profile" data-canonical-src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hihajin" style="max-width: 100%;">
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hihajin)](https://solved.ac/hihajin/)
     
 ![hajiiiin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hajiiiin&show_icons=true&theme=swift)
