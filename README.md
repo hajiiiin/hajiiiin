@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-    ## 💻 My blog
+    
+## 💻 My blog
 <div style="display:flex; flex-direction:row;">
     <a href="https://hihajin.tistory.com/">
       <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
@@ -36,10 +37,13 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
     <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
 </div>
-<br>
+    <p></p>
+    
 ## 🏅Baekjoon solved rank
+    <div>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hihajin)](https://solved.ac/hihajin/)
+    </div>
 <br>
-
-    <!--![hajiiiin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hajiiiin&show_icons=true&theme=swift)-->
 </div>
+    <!--![hajiiiin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hajiiiin&show_icons=true&theme=swift)-->
+
