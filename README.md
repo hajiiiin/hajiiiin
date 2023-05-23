@@ -38,9 +38,9 @@ Here are some ideas to get you started:
 </div>
 
 ## 🏅Baekjoon solved rank
-<div style="display:flex; flex-direction:row;">
+    <br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hihajin)](https://solved.ac/hihajin/)
-</div><br>
+<br>
 
     <!--![hajiiiin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hajiiiin&show_icons=true&theme=swift)-->
 </div>
