@@ -33,9 +33,11 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
     <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
     </div>
-      
+      <p>
+    
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
 
-<img alt="C" src="https://camo.githubusercontent.com/0cba0482ade2126d32449e38650a9571e58ecd081238df70b2ca659f6d423cf7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432d4138423943432e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d43266c6f676f436f6c6f723d67726579" data-canonical-src="https://img.shields.io/badge/C-A8B9CC.svg?&amp;style=for-the-badge&amp;logo=C&amp;logoColor=grey" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/2b8b4a32fad9cf539e24d18b6292738eb2a8042b5079279224dd2fa22ee16c6e/687474703a2f2f6d617a617373756d6e6964612e7774662f6170692f76322f67656e65726174655f62616467653f626f6a3d6b686a34323935323333" alt="Solved.ac Profile" data-canonical-src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hihajin" style="max-width: 100%;">
+    
 ![hajiiiin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hajiiiin&show_icons=true&theme=swift)
