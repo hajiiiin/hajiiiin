@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 ## 🏅Baekjoon solved rank
     
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hihajin)](https://solved.ac/hihajin/)
-    
+![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=warm)
 <br>
 </div>
     <!--![hajiiiin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hajiiiin&show_icons=true&theme=swift)-->
