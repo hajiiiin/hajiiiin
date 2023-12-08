@@ -39,7 +39,8 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
 </div><br>
    
-    
+
+<!--
 ## 🏅 Baekjoon solved rank 🏅
     
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hihajin)](https://solved.ac/hihajin/)
@@ -50,5 +51,6 @@ Here are some ideas to get you started:
 <hr>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hajiiiin&layout=compact">
 </div>
-    <!--![hajiiiin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hajiiiin&show_icons=true&theme=swift)-->
+-->
+<!--[hajiiiin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hajiiiin&show_icons=true&theme=swift)-->
 
