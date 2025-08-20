@@ -23,7 +23,6 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/Tistory-9999FF?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
     
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=hihajin&theme=default)](https://hihajin.tistory.com)
 </div><br>
 
 
